@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-source <(curl -s https://github.com/ZynthCode/Proxmox-ve-helper-scripts/main/misc/build.func)
+source <(curl -s https://raw.githubusercontent.com/ZynthCode/Proxmox-ve-helper-scripts/main/misc/build.func)
 # edited by zynth in order to change the URLs pointing to tteck to this repository instead (for security purposes)
 # Copyright (c) 2021-2023 tteck
 # Author: tteck (tteckster)
